@@ -1,7 +1,8 @@
 <h1 align="center">🚀 Elevating Backend Experiences — I'm Pankaj Ugale</h1>
 
 <p align="center">
-  ⚡ Java Backend Enthusiast | 🛠 Spring Boot Craftsman | 🌐 Full Stack Explorer | 🔄 Code. Learn. Evolve.
+  🚀 Aspiring Software Developer | Java | SQL | Frontend | Spring
+E-learning & Academic Project Experience
 </p>
 
 <p align="center">
