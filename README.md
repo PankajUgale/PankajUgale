@@ -40,7 +40,8 @@ E-learning & Academic Project Experience
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajUgale&layout=compact&theme=github_dark" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajUgale&theme=github-dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=PankajUgale&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+
 </p>
 
 ---
