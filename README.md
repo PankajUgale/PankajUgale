@@ -49,7 +49,7 @@ E-learning & Academic Project Experience
 ### 🎯 Goals for 2025
 
 - ✅ **Master** RESTful API development with real-world projects  
-- 🚀 **Build & deploy** 3+ Spring Boot apps with database integration  
+- 🚀 **Build & deploy** 2+ Spring Boot apps with database integration  
 - 💼 Secure a **Java Developer** position in a top tech company  
 - ✍️ Start **blogging** on Java, Spring Boot, and backend architecture  
 - 👨‍💻 Actively contribute to **open source** and developer communities
