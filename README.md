@@ -19,7 +19,7 @@ E-learning & Academic Project Experience
 - 🎯 Focused on becoming a **pro Java Backend Developer**
 - 🔨 Building real-world apps using **Spring Boot**, **JSP**, and **JDBC**
 - 🌐 Exploring **REST APIs**, **SQL optimization**, and the **Spring ecosystem**
-- 💬 Ask me about: **Core Java**, **Spring Boot**, **Hibernate**, **JPA**, **REST**, **JDBC**, **JSP**, **MySQL**
+- 💬 Ask me about: **Core Java**, **Spring**, **Spring Boot**, **Hibernate**, **JPA**, **REST**, **JDBC**, **JSP**, **MySQL**
 - 🧽 Passionate about writing **clean code**, doing **deep work**, and improving **1% every day**
 - 📧 Let’s connect: [pankajugale2020@gmail.com](mailto:pankajugale2020@gmail.com)
 
