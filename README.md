@@ -16,7 +16,7 @@ E-learning & Academic Project Experience
 
 ### 🧠 Who Am I?
 
-- 🎯 Focused on becoming a **pro Java Backend Developer**
+- 🎯 Focused on becoming a **pro Java Backend Developer*
 - 🔨 Building real-world apps using **Spring Boot**, **JSP**, and **JDBC**
 - 🌐 Exploring **REST APIs**, **SQL optimization**, and the **Spring ecosystem**
 - 💬 Ask me about: **Core Java**, **Spring**, **Spring Boot**, **Hibernate**, **JPA**, **REST**, **JDBC**, **JSP**, **MySQL**
