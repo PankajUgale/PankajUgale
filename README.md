@@ -63,7 +63,7 @@ E-learning & Academic Project Experience
 ### 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,eclipse,vscode,idea,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,eclipse,vscode,idea,git,github,postman,docker,copilot,cursor,antigravity,ollama" />
 </p>
 
 ---
