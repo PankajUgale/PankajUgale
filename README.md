@@ -68,11 +68,12 @@ E-learning & Academic Project Experience
 
 ---
 
-### 🧰 AI Toolbox
+### 🧠 AI Development Toolkit
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=copilot,cursor,antigravity,ai studio,ollama" />
+  <img src="https://skillicons.dev/icons?i=copilot,cursor,antigravity,ollama" />
 </p>
+
 
 ---
 
