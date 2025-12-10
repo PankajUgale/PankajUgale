@@ -48,7 +48,6 @@ E-learning & Academic Project Experience
 ### 🧩 Frameworks & Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0FA55A?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59554C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-8A2BE2?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
