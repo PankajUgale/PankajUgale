@@ -68,6 +68,14 @@ E-learning & Academic Project Experience
 
 ---
 
+### 🧰 AI Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=copilot,cursor,antigravity,ai studio,ollama" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
