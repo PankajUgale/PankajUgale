@@ -71,8 +71,9 @@ E-learning & Academic Project Experience
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajUgale&show_icons=true&theme=github_dark&hide=stars&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajUgale&layout=compact&theme=github_dark" height="160"/>
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PankajUgale&show_icons=true&theme=github_dark&hide=stars&count_private=true" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PankajUgale&layout=compact&theme=github_dark" height="160"/>
+
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=PankajUgale&theme=github-dark&hide_border=false" alt="GitHub Streak" />
