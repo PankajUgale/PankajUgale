@@ -68,15 +68,6 @@ E-learning & Academic Project Experience
 
 ---
 
-### 🧠 AI Development Toolkit
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=copilot,cursor,antigravity,ollama" />
-</p>
-
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
